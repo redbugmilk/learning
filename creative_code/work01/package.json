@@ -1,0 +1,14 @@
+{
+  "name": "work01",
+  "version": "1.0.0",
+  "description": "homework01",
+  "main": "sketch-work-01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4"
+  }
+}
