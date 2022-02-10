@@ -1,12 +1,5 @@
 // import { Company } from './Company';
 // import { User } from "./User";
+import { Map } from "./Map";
 
-
-new google.maps.Map(document.getElementById("map"),{
-  zoom: 1,
-  backgroundColor:"pink",
-  center:{
-    lat:0,
-    lng:0
-  }
-})
+new Map();
