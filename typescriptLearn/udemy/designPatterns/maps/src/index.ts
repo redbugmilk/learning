@@ -2,4 +2,4 @@
 // import { User } from "./User";
 import { Map } from "./Map";
 
-new Map();
+new Map("map");

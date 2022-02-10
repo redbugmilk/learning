@@ -1,7 +1,7 @@
 export class Map {
   private googleMap: google.maps.Map;
-  constructor() {
-    this.googleMap = new google.maps.Map(document.getElementById("map"),{
+  constructor(refToMapDiv: string) {
+    this.googleMap = new google.maps.Map(document.getElementById(refToMapDiv),{
         zoom: 1,
         center:{
           lat:0,
