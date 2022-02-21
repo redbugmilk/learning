@@ -1,6 +1,6 @@
 //This class is a facade to hide google map implementation
 
-interface Mappable {
+export interface Mappable {
   location: {
     lat: number;
     lng: number;
