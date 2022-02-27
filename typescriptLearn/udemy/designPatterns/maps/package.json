@@ -10,7 +10,7 @@
     "g": "^2.0.1"
   },
   "devDependencies": {
-    "parcel": "^2.2.1"
+    "parcel": "^2.3.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
